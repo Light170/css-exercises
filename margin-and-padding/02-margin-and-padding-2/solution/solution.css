@@ -19,7 +19,7 @@ body {
 
 .button-container {
   background: #e3f4ff;
-}
+  
 
 button {
   background: white;
@@ -59,4 +59,5 @@ button {
   display: block;
   margin: 0 auto;
   padding: 8px 24px;
+}
 }
